@@ -1,0 +1,2 @@
+# Erne
+A WordPress theme
